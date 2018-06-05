@@ -1,5 +1,5 @@
 <?php
-namespace AppBundle;
+ namespace S3Upload;
 
 class AWS
 {
