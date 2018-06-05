@@ -1,7 +1,7 @@
 {
     "name": "techjini/aws_s3",
     "license": "proprietary",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "AppBundle\\": "src/AppBundle"
